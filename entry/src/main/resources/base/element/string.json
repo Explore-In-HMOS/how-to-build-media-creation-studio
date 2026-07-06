@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Media Creation Studio module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Media Creation Studio entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Media Creation Studio"
+    },
+    {
+      "name": "permission_microphone_reason",
+      "value": "Record voice notes with AVRecorder"
+    }
+  ]
+}
